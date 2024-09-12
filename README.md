@@ -1,3 +1,5 @@
+# ALTERAÇÃO 1
+
 # webfrontend-2024-2-semana-git-e-github-extra
 
 ### Desafio Git Rebase - Hacker Edition 🚀
@@ -113,4 +115,4 @@ git push origin minha-feature --force
 Use git rebase -i para sempre revisar e organizar seus commits antes de enviar para o repositório remoto.
 Caso você precise abortar o rebase, use git rebase --abort para voltar ao estado anterior.
 O rebase é ideal para manter o histórico limpo, mas em equipes grandes, tenha cuidado com o --force para não sobrescrever mudanças importantes.
-Agora é sua vez! Use o git rebase para manter seu histórico de commits limpo e organizado. Isso será essencial para manter a qualidade do seu trabalho em projetos colaborativos maiores. Boa sorte! 💻
+Agora é sua vez! Use o git rebase para manter seu histórico de commits limpo e organizado. Isso será essencial para manter a qualidade do seu trabalho em projetos colaborativos maiores. Boa sorte!
