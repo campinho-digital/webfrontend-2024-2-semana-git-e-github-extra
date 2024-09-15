@@ -1,7 +1,14 @@
+# Primeira alteração
+
+
+## Prendizado Coletivo 
+
 # webfrontend-2024-2-semana-git-e-github-extra
 
 ### Desafio Git Rebase - Hacker Edition 🚀
 #### Desafio: Domine o Git Rebase
+####  desafio e aprendizado 
+
 
 Neste desafio, o seu objetivo é aprender a utilizar o `git rebase` de forma eficaz, reordenando commits para manter o histórico de commits limpo e linear. Vamos simular uma situação comum em projetos colaborativos, onde você terá que reorganizar seus commits antes de enviar suas alterações para o repositório remoto.
 
