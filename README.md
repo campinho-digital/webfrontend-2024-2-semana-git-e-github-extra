@@ -116,3 +116,5 @@ O rebase é ideal para manter o histórico limpo, mas em equipes grandes, tenha 
 Agora é sua vez! Use o git rebase para manter seu histórico de commits limpo e organizado. Isso será essencial para manter a qualidade do seu trabalho em projetos colaborativos maiores. Boa sorte! 💻
 .
 ..
+
+...
